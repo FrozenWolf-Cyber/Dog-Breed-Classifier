@@ -1,3 +1,5 @@
+#using tensorflow 2.0
+
 import os
 import numpy as np
 import matplotlib.pyplot as plt
@@ -166,4 +168,4 @@ plt.plot(history.history['loss'])
 
 # SAVING THE MODEL
 
-model.save_weights('model/dog_classifier_model.h5')
+model.save_weights('dog_classifier_model.h5')

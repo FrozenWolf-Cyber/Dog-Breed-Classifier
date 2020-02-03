@@ -168,4 +168,4 @@ plt.plot(history.history['loss'])
 
 # SAVING THE MODEL
 
-model.save_weights('dog_classifier_model.h5')
+model.save('dog_classifier_model.h5')

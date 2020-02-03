@@ -100,7 +100,7 @@ tot_img = modified_img_data.shape[0]
 for i in modified_img_data:
     for j in augment(i):
         modified_imgs_data_.append(list(j))
-        print(len(modified_imgs_data_)*100/(tot_img*5),'%'+' COMPLETED')
+        print(int(len(modified_imgs_data_)*100/(tot_img*5)),'%'+' COMPLETED')
 
 modified_img_data = np.asarray(modified_imgs_data_)
 

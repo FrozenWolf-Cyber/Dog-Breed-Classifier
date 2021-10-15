@@ -29,5 +29,10 @@ Test Loss :       0.6329619951385964
 - #### Accuracy :
   -  ![vgg16_accuracy](https://user-images.githubusercontent.com/57902078/137476645-fb5c7f00-ab01-49f6-bfd8-dc3b3614c6b6.png)
 
-
-  
+### custom_CNN :
+Test Accuracy :   1.1548913043478262  
+Test Loss :       4.78740421585414 
+- #### Loss :
+  - ![custom_CNN_loss](https://user-images.githubusercontent.com/57902078/137493266-ebda15a8-753d-4c6b-bd54-61013e6d106b.png)
+- #### Accuracy :
+   -![custom_CNN_accuracy](https://user-images.githubusercontent.com/57902078/137493380-6bbc1071-f5b0-41da-b3f5-f3c093b4b2fb.png)

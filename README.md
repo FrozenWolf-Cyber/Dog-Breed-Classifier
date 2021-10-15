@@ -21,11 +21,13 @@ Test Loss :       0.6438697055783323
   -  ![resnet_50_accuracy](https://user-images.githubusercontent.com/57902078/137466887-f871777c-0276-4adb-a78e-68d70c42422e.png)
 
 ### VGG16 :
-Test Accuracy :         
-Test Loss :
+Test Accuracy :   80.8736559139785      
+Test Loss :       0.6329619951385964
 - #### Loss :
-  - 
+  - ![vgg16_loss](https://user-images.githubusercontent.com/57902078/137476625-6473d98d-0e73-47ac-8a36-d5810c3d7039.png)
+
 - #### Accuracy :
-  -  
+  -  ![vgg16_accuracy](https://user-images.githubusercontent.com/57902078/137476645-fb5c7f00-ab01-49f6-bfd8-dc3b3614c6b6.png)
+
 
   

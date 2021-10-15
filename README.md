@@ -1,7 +1,8 @@
 # Dog Breed Classifier
 I tunned different Pytorch pre trained models like ResNet50 , Wide ResNet_50.2 , VGG16 and a custom CNN model to classify a dog image among 120 breeds.
 The training dataset can be collected from [here](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar).
-The results are :
+
+## Results :
 
 ### Wide ResNet_50.2 :
 Test Accuracy :   82.88978494623656   

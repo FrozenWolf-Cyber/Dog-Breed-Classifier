@@ -12,8 +12,8 @@ Test Loss     :   0.6641809101546964
   -  ![wide_resnet50_accuracy](https://user-images.githubusercontent.com/57902078/137466085-4056e779-73be-4d57-ab8b-c29e6e46cf60.png)
 
 ### ResNet50 :
-Test Accuracy :         
-Test Loss :
+Test Accuracy :   80.26881720430107     
+Test Loss :       0.6438697055783323
 - #### Loss :
   - ![resnet_50_loss](https://user-images.githubusercontent.com/57902078/137466849-3392854a-9d1e-463a-b8d2-645303d5f7f1.png)
 

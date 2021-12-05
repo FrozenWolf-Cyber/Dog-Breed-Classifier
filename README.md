@@ -14,7 +14,7 @@ Test Loss     :   0.6641809101546964
 
 ### ResNet50 :
 Test Accuracy :   80.26881720430107 / 0.9375 (Tensorflow)
-Test Loss :       0.6438697055783323 / 0.9062 (Tensorflow)
+Test Loss :       0.6438697055783323
 - #### Loss :
   ![resnet_50_loss](https://user-images.githubusercontent.com/57902078/137466849-3392854a-9d1e-463a-b8d2-645303d5f7f1.png)
 
@@ -31,7 +31,7 @@ Test Loss :       0.6329619951385964
   ![vgg16_accuracy](https://user-images.githubusercontent.com/57902078/137476645-fb5c7f00-ab01-49f6-bfd8-dc3b3614c6b6.png)
 
 ### custom_CNN :
-Test Accuracy :   1.1548913043478262  
+Test Accuracy :   0.1548913043478262  / 0.6875 (Tensorflow)
 Test Loss :       4.78740421585414 
 - #### Loss :
   ![custom_CNN_loss](https://user-images.githubusercontent.com/57902078/137493266-ebda15a8-753d-4c6b-bd54-61013e6d106b.png)
